@@ -4,7 +4,11 @@ testing short programmes from book "phyton dla każdego"
 print("koniec gry")
 
 
-signal_power=1 \n
+def print_lyrics():
+    print("jestem")
+    print(spie)
+
+signal_power=1
 noise_power=0.001
 import math
 ratio = signal_power / noise_power
