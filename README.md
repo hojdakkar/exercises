@@ -3,19 +3,6 @@ testing short programmes from book "phyton dla każdego"
 
 print("koniec gry")
 
-
 def print_lyrics():
     print("jestem")
     print(spie)
-
-signal_power=1
-noise_power=0.001
-import math
-ratio = signal_power / noise_power
-decibels = 10*math.log10(ratio)
-
-degrees=45
-radians=degrees/180.0*math.pi
-math.sin(radians)
-print('pi')
-math.sin(radians)
